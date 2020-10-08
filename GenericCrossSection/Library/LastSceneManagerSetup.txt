@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GenericCrossSection/Examples/exampleScene.unity
+  isLoaded: 1
+  isActive: 1
